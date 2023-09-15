@@ -8,8 +8,8 @@ To create ATM System software that will meet the needs of the applicant and help
 to withdraw money,deposit.
 ### UML DIAGRAMS:
 ```
-Developed by: Vanitha S
-Register Number: 212222100057
+Developed by: KRISHNA PRAKAASH D M
+Register Number: 212221230052
 ```
 #### Use Case Diagram:
 ![image](https://github.com/Vanitha-SM/LAB-1-ATM/assets/119557985/07b3fbb0-f04e-4ac7-b062-2092e23b8111)
